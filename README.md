@@ -1,6 +1,6 @@
 ### Olá, sou o Levi.dev 👋
 
-Especialista em desenvolvimento rápido de sites e apps com Next.js e IA.
+Especialista em desenvolvimento rápido de sites e apps com React e Next.js e IA.
 
 - 🚀 Entrego seu projeto em tempo recorde.
 - 💡 Transformo sua ideia em realidade digital.
